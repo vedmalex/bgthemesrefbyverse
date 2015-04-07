@@ -1,0 +1,11 @@
+{
+	"gitbook": "2.x.x",
+	"name": "bgthemesrefbyverse",
+	"version": "0.0.3",
+	"description": "Перечень Тем по стихам и комментариям к книге Бхагавад-Гита как она есть с комментариями Его Божественной Милости А.Ч. Бхактиведанты Свами Прабхупады, 4-е издание.",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/vedmalex/bgthemesrefbyverse.git"
+	},
+	"author": "Веданта-крит дас<vedmalex@gmail.com>"
+}
